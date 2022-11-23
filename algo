@@ -1,0 +1,18 @@
+PROCEDURE dot_product(var :ps)
+VAR
+    V1,V2:INTEGER
+BEGIN
+    write V1[]
+    read('v1')
+    write V2[]
+    read ('V2')
+    FOR i FROM 0 TO n-1    DO
+    prod=V1*V2
+    read('prod')
+        end for 
+        end
+    
+
+
+
+
